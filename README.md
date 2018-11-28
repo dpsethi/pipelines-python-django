@@ -1,5 +1,6 @@
 # Sample Python app for Azure Pipelines docs
 
+[![Build Status](https://dev.azure.com/dpsethi/JaiMataDi/_apis/build/status/dpsethi.pipelines-python-django)](https://dev.azure.com/dpsethi/JaiMataDi/_build/latest?definitionId=3)
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
 | Example | Build status |
